@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3f51b5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="fondo_alert">#9db4ef</color>
+    <color name="fondo_item">#b8f6cc</color>
+    <color name="fondo_itemid">#3e8555</color>
+    <color name="fondo_itemcomentario">#dbfbd2</color>
+    <color name="fondo_alert2">#cad7f9</color>
+</resources>

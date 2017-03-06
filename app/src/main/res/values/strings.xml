@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ExamenFinal</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="txtFragTitId">Número de cita:</string>
+    <string name="txtFragTitFecha">Fecha:</string>
+    <string name="txtFragTitHora">Hora:</string>
+    <string name="txtFragTitComentario">Comentario:</string>
+    <string name="txtFragTitTexto">Texto:</string>
+    <string name="txtFragOk">Aceptar</string>
+    <string name="txtFragTitulo">Detalles:</string>
+</resources>
